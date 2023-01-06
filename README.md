@@ -20,7 +20,7 @@
     + [Miro блок-схема](https://drive.google.com/file/d/14WO8yKoyHTZ5SAfLO0DNTCS3onRZirIW/view?usp=sharing)
     + Баг-репорты [Трекер](https://drive.google.com/drive/folders/1IOy3yOGCzQHqPGSjKQ4TTf9n3HH6Msa_?usp=share_link) и [Jira](https://drive.google.com/file/d/1t8kk6_GimLbON0mF7rS8u8iXrDYVxKqD/view?usp=sharing)
 + Коллекция в Postman
-    + [Название проекта]()
+    + [Проекты](https://drive.google.com/file/d/1sdBHQq72onrW_uJYJ1r6_S-UuBZ9zVel/view?usp=sharing)
 + SQL запросы
     + [Название проектов]()
 
