@@ -17,7 +17,7 @@
     + Чек-листы [1](https://drive.google.com/file/d/1JDiYT1FeY_2zyP-9tJdPNGR-wtML2wNw/view?usp=share_link), [2](https://drive.google.com/file/d/1_XJ8hGlNMXYkVx41_zXLfORk8CDwhBjZ/view?usp=share_link), [API_1](https://drive.google.com/file/d/1hRa9ItLrkUm2SkX3rwfPRoY6EbpOu-tJ/view?usp=share_link), [API_2](https://drive.google.com/file/d/13eVctwlJqz_Dj_I0RmQqQB-U20l5SeJJ/view?usp=share_link), [API_3](https://drive.google.com/file/d/17cKgdxBNkhKX-FJbVjtTRR6Y4574WBu6/view?usp=share_link), [API_4](https://drive.google.com/file/d/1bWmCKDLspnql33_tOO-s0dv2jH00yBg0/view?usp=share_link), [API_5](https://drive.google.com/file/d/1hrPiQz3TieFp743CnD7MabjuaCrnLF2v/view?usp=share_link)
     + [Тест-кейсы](https://drive.google.com/file/d/1FsPbqTV61kAFWfhVAT8qSF7_UEl_iAPE/view?usp=sharing)
     + [Mind maps](https://drive.google.com/file/d/1gIEGMA3XZraVeJXg4gf_lwEctQINOrWp/view?usp=sharing)
-    + [Miro блок-схема](https://drive.google.com/file/d/14WO8yKoyHTZ5SAfLO0DNTCS3onRZirIW/view?usp=sharing)
+    + [Miro блок-схема](https://drive.google.com/file/d/14WO8yKoyHTZ5SAfLO0DNTCS3onRZirIW/view?usp=sharing) Githance
     + Баг-репорты [Трекер](https://drive.google.com/drive/folders/1IOy3yOGCzQHqPGSjKQ4TTf9n3HH6Msa_?usp=share_link) и [Jira](https://drive.google.com/file/d/1t8kk6_GimLbON0mF7rS8u8iXrDYVxKqD/view?usp=sharing)
 + Коллекция в Postman
     + [Проекты](https://drive.google.com/file/d/1sdBHQq72onrW_uJYJ1r6_S-UuBZ9zVel/view?usp=sharing)
